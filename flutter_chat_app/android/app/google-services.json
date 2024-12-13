@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367247400163",
+    "project_id": "comics-4e516",
+    "storage_bucket": "comics-4e516.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367247400163:android:3f9312a3e789f825a1f9d6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy63wXQlSB4jV_NmvABtacD-FE1rSKeVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
